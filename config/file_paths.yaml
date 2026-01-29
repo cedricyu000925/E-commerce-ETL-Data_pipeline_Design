@@ -1,0 +1,17 @@
+# Data file paths
+data_paths:
+  raw_data_dir: ./data/raw/
+  staging_dir: ./data/staging/
+  
+  # Source CSV files
+  orders: ./data/raw/olist_orders_dataset.csv
+  order_items: ./data/raw/olist_order_items_dataset.csv
+  customers: ./data/raw/olist_customers_dataset.csv
+  products: ./data/raw/olist_products_dataset.csv
+  payments: ./data/raw/olist_order_payments_dataset.csv
+  reviews: ./data/raw/olist_order_reviews_dataset.csv
+
+# Logging
+logging:
+  log_dir: ./logs/
+  log_level: INFO

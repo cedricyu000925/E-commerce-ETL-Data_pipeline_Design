@@ -1,0 +1,13 @@
+# PostgreSQL Database Configuration
+database:
+  host: localhost
+  port: 5432
+  database: olist_dw
+  user: postgres
+  password: 000925Lilas
+
+# Connection pool settings
+connection:
+  pool_size: 5
+  max_overflow: 10
+  timeout: 30

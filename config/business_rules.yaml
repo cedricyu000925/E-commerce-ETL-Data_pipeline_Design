@@ -1,0 +1,24 @@
+# Business rules and constants
+customer_segmentation:
+  new_customer_max_orders: 1
+  returning_customer_max_orders: 5
+  vip_customer_min_orders: 6
+  vip_customer_min_value: 5000
+
+regions:
+  Southeast: ['SP', 'RJ', 'MG', 'ES']
+  South: ['PR', 'SC', 'RS']
+  Northeast: ['BA', 'CE', 'PE', 'RN', 'PB', 'AL', 'SE', 'MA', 'PI']
+  North: ['AM', 'PA', 'AC', 'RO', 'RR', 'AP', 'TO']
+  Central-West: ['GO', 'MT', 'MS', 'DF']
+
+delivery_performance:
+  late_threshold_days: 0
+  very_late_threshold_days: 7
+
+clv_calculation:
+  estimated_lifespan_days: 365
+  
+date_dimension:
+  start_date: '2016-09-01'
+  end_date: '2018-10-31'
