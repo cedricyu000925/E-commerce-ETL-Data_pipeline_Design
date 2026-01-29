@@ -1,0 +1,18 @@
+# Core data processing
+pandas==2.2.0
+polars==0.20.6
+numpy==1.26.3
+
+# Database connectivity
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+
+# Configuration management
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Data validation
+great-expectations==0.18.8
+
+# Utilities
+tqdm==4.66.1  # Progress bars
