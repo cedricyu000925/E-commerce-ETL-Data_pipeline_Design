@@ -597,3 +597,33 @@ ORDER BY total_revenue DESC;
 </details>
 
 ---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 📧 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shiu-kong-yu-971556105/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://yu-shiu-kong.gitbook.io/data-projects/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](cedricyu80@gmail.com)
+
+---
+
+## 🙏 Acknowledgments
+
+- **Dataset:** [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle
+- **Inspiration:** Real-world e-commerce analytics challenges
+- **Tools:** PostgreSQL, Python pandas, Power BI communities
+
+---
+
+<div align="center">
+
+**Built with ❤️ using Python, PostgreSQL, and Power BI**
+
+[⬆ Back to Top](#-e-commerce-etl-data-warehouse--analytics-dashboard)
+
+</div>
